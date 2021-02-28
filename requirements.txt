@@ -1,6 +1,6 @@
 Django
 argparse
-distribute
+setuptools
 ensurepip
 dj-database-url
 dj-static

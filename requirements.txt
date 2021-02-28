@@ -1,6 +1,7 @@
 Django
 argparse
 distribute
+ensurepip
 dj-database-url
 dj-static
 django-toolbelt

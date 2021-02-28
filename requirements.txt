@@ -1,0 +1,10 @@
+python==3.9
+django==3.1.5
+db-sqlite3
+requests
+request
+json
+JSonResponse
+HttpResponse
+Django==2.2
+mysqlclient==2.0.3
